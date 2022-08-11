@@ -11,7 +11,7 @@
 
 ## 使い方
 
-`auto-scroller-compiled.js`の1行ソースコードの行頭に`javascript:`と付け加えてブックマークのURLとして保存する。
+`auto-scroller-compiled.js`ソースコードをブックマークのURLとして保存する。
 
 ## 補足
 
